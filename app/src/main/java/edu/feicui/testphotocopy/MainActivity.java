@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
      */
     public static final int GOTO_CAMERA=201;
     /**
-     * 图库的请求码
+     * 图库的请求码  aaaaa
      */
     public static final int  GOTO_PICK=203;
     public static final int REQUESTCODE_CUTTING=202;
