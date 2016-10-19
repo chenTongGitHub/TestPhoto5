@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     LinearLayout mLlCamera;
     LinearLayout mLlSetPhoto;
     /**
-     * 权限请求码
+     * 权限请求码  ssss
      */
     public static final int GOTO_CAMERA=201;
     /**
